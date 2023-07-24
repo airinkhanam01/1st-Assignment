@@ -7,18 +7,22 @@ header{
 *{
     margin: 0%;
     font-family: work sans-serif;
+    
 }
+main{width:1350px;
+margin: 0%;}
 .items{
     padding-top: 300px;
     padding-left: 250px;
     padding-right: 100px;
 }
 
-h1{
+.h1-1{
     text-align: right;
     padding-bottom: 5px;
     font-style: bold;
     font-weight: 700px;
+    size: 40px;
 }
 p{
     text-align: right;
@@ -36,4 +40,73 @@ p{
 
 padding-left: 910px;
     }
+    .main-section{
+        display: flex;
+        align-items:center;
+        padding-left: 200px;
+        padding-right:100px;
+        padding-top: 5px;
+        height: 720px;
+
+    
+        
+    }
+    .p-description{
+    width: 400px;
+    font-weight: 400px;
+    size:16px;
+    line-height: 26px;
+    
+    left: 860px;
+    color: darkgray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    }
+    .images{
+        width: 150px;
+    ; height: 500px;
+    
+    left: 200px;
+    }
+    ul {
+        list-style: none;
+      }
+      
+      .ul-st li:before {
+        content: '✓';
+        color:#0eb360;
+      } 
+    .ul-st {
+
+            color: grey;
+            font-weight: 400px;
+    size:16px;
+    line-height: 26px;
+            
+          }
+          .main-text{
+            padding-top:500px;
+            padding-left: 500px;
+            text-align: left;
+            padding-bottom: 10px;
+            
+            
+          }
+.section2{
+    height: 300px;
+padding-bottom: 50px;
+padding-left: 20px;
+padding-top: 200px;
+padding-right: 20px;
+    
+
+}
+    .myplan{
+        display: flex;
+        padding: 20px;
+    }
+    .us{
+text-align: center;
+    }
+    
     
