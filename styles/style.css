@@ -56,7 +56,7 @@ padding-left: 910px;
     font-weight: 400px;
     size:16px;
     line-height: 26px;
-    
+    text-align: left;
     left: 860px;
     color: darkgray;
     padding-bottom: 10px;
@@ -82,11 +82,12 @@ padding-left: 910px;
             font-weight: 400px;
     size:16px;
     line-height: 26px;
+    
             
           }
           .main-text{
             padding-top:500px;
-            padding-left: 500px;
+            padding-left:500px;
             text-align: left;
             padding-bottom: 10px;
             
@@ -98,12 +99,16 @@ padding-bottom: 50px;
 padding-left: 20px;
 padding-top: 200px;
 padding-right: 20px;
+text-align: center;
+
     
 
 }
     .myplan{
         display: flex;
-        padding: 20px;
+        padding: 50px;
+        padding-left: 260px;
+        
     }
     .us{
 text-align: center;
