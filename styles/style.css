@@ -84,7 +84,7 @@ padding-left: 890px;
             color: grey;
             font-weight: 400px;
     size:16px;
-    line-height: 26px;
+    line-height: 26px; padding-left: 4px;
     
             
           }
@@ -143,8 +143,9 @@ width: 1140px;
         
         height: 300px;
         margin-left: 155px;
-        background-image: url("../images/gradient2.png");
         background-image: url("../images/watch.png");
+        background: linear-gradient(transparent, orangered), url("/examples/images/sky.jpg") no-repeat center, rgb(210, 216, 218);
+        background-size: cover;
         
 
     }
@@ -158,7 +159,7 @@ width: 1140px;
         
     }
     .padd{
-        font-weight: 700px
+        font-weight:700px;
     ;
     size: 40px;
     line-height: 30px;
