@@ -6,7 +6,7 @@ header{
 }
 *{
     margin: 0%;
-    font-family: work sans-serif;
+    font-family: 'Work Sans', sans-serif;
     
 }
 main{width:1350px;
@@ -29,6 +29,8 @@ p{
     color: darkgray;
     padding-bottom: 10px;
     padding-top: 10px;
+    margin-bottom: 30px;
+    ;
 }
 .btn-primary{
     color: #ffff;
@@ -38,7 +40,7 @@ p{
     border-radius: 5px;}
     .button{
 
-padding-left: 910px;
+padding-left: 890px;
     }
     .main-section{
         display: flex;
@@ -70,6 +72,7 @@ padding-left: 910px;
     }
     ul {
         list-style: none;
+
       }
       
       .ul-st li:before {
@@ -113,5 +116,93 @@ text-align: center;
     .us{
 text-align: center;
     }
+    .btn-2{
+        color:orangered;
+    padding: 12px; width: 120px;
+background-color: #ffff;
+    border: none;
+    border-radius: 4px;
+    font-style: bold;
+    }
+
     
+    .section3
+    {
+         
+        height: 300px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-top: 200px;
+        padding-right: 20px;
+width: 1140px;
+        border-radius: 8px;
+    
+        
+    }
+    .sec3{
+        
+        height: 300px;
+        margin-left: 155px;
+        background-image: url("../images/gradient2.png");
+        background-image: url("../images/watch.png");
+        
+
+    }
+    .mp{
+        width: 450px;
+        height: 180px;
+        color: #ffff;
+        padding-top: 100px;
+        margin-left: 100px;
+        
+        
+    }
+    .padd{
+        font-weight: 700px
+    ;
+    size: 40px;
+    line-height: 30px;
+    padding-bottom: 30px;
+    }
+    .icon{
+        display: flex;
+        gap: 10px;
+        padding-left: 4px;
+    
+    }
+    .foot{
+        background-color: black;
+        
+    }
+    .foot1{
+        display: flex;
+        justify-content: space-between;
+        padding-right: 400px;
+        height: 560px;
+        
+    }
+    h3{
+        color: #ffff;
+        padding-bottom: 25px;
+    }
+    .emailbt{
+        color: #ffff;
+        height: 40px;
+        background-color: black;
+        border-radius: 5px;
+        margin-bottom: 30px;
+    }
+    .h12{
+color:#ffff;
+    }
+    .di1{
+        width: 400px;
+padding-left: 200px;
+padding-top: 100px;
+    }
+    
+    .di2{
+    
+        width: 300px; padding-left: 300px; padding-top: 160px;
+    }
     
